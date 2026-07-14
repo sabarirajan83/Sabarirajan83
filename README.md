@@ -14,13 +14,11 @@
 
 </div>
 
-- 💻 **Computer Science Engineer (CSE)**
+- 💻 **Computer Science Student at Madras Institute of Technology (MIT)**
 - 🔥 Passionate about **DSA, Web Development & System Design**
 - 🔍 Strong in **Problem Solving & Algorithms**
-- 🌱 Currently learning **Next.js, Backend Scaling, System Design**
+- 🌱 Currently learning **SpringBoot, Backend Scaling, AI/ML**
 - 🛠 Building **high-performance applications**
-- 🚀 Consistency-focused developer
-- 🧠 Core strength in the **MERN Stack**
 - 🤖 Exploring **Data Science & AI** integration in real-world products
 
 <br/>
@@ -69,7 +67,7 @@
 
 </div>
 
-<details open>
+<details close>
 <summary><b>🔹 QuickFix — Hostel Maintenance Ticket Tracker</b></summary>
 <br/>
 
@@ -90,7 +88,7 @@ This project demonstrates my ability to design **role-based full-stack systems**
 
 <br/>
 
-<details open>
+<details close>
 <summary><b>🔹 React Quote Generator</b></summary>
 <br/>
 
@@ -120,7 +118,7 @@ This project reflects my focus on **frontend craftsmanship** — combining clean
 <a href="https://leetcode.com/sabari_rajan_2006" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems%20Solved-0C4A6E?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
-<a href="https://www.hackerrank.com/" target="_blank">
+<a href="https://www.hackerrank.com/sabarirajan83" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-0E7490?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
 </a>
 
@@ -177,7 +175,7 @@ This project reflects my focus on **frontend craftsmanship** — combining clean
 
 <div align="center">
 
-### 💬 Always open to meaningful conversations about software engineering, system design, and building products that matter.
+### 💬 Always open to meaningful conversations
 
 <img height = 50 width = 1000 src="https://media.istockphoto.com/id/1447621847/vector/technology-striped-pattern-background.jpg?s=612x612&w=0&k=20&c=L98uzk45PMIgitt4XYNv5peEE-yHYXt9KHoQ_z9Hq_A="/>
 
